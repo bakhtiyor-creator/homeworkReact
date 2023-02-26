@@ -1,0 +1,20 @@
+.all {
+  margin-top: 100px;
+  margin-bottom: 100px;
+  background: #02897a;
+  border-radius: 32px;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.right h3 {
+  font-weight: 600;
+  font-size: 32px;
+  line-height: 151.4%;
+  color: #ffffff;
+}
+.right button {
+  margin-top: 30px;
+  background: #ffffff;
+  border-radius: 8px;
+}

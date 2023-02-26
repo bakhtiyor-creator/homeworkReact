@@ -1,0 +1,31 @@
+.home {
+  margin-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.right h2 {
+  margin-top: 10px;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 60px;
+  color: #22343d;
+}
+.right p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 28px;
+  color: #22343d;
+}
+.btns {
+  margin-top: 30px;
+  margin-right: 30px;
+}
+a {
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 24px;
+  text-decoration-line: underline;
+  color: #02897a;
+}

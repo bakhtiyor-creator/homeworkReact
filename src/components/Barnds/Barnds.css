@@ -1,0 +1,35 @@
+.brads {
+  margin-top: 100px;
+}
+.title {
+  margin-bottom: 30px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 32px;
+  line-height: 48px;
+  text-align: center;
+  color: #22343d;
+}
+.cards {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.div img {
+  margin-bottom: 15px;
+}
+.div h5 {
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 22px;
+  line-height: 33px;
+  color: #22343d;
+}
+
+.div p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 26px;
+  color: #22343d;
+}
